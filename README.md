@@ -8,7 +8,7 @@
 
 ## Description
 
-[PrestaShop](https://www.prestashop.com/) source plugin for [GatsbyJS](https://www.gatsbyjs.org/).
+[PrestaShop](https://prestashop-project.org) source plugin for [GatsbyJS](https://www.gatsbyjs.org/).
 
 ## Install
 
